@@ -1,0 +1,4 @@
+c:\users\rx142\documents\visual studio 2013\Projects\Test\Test\bin\Debug\Test.dll
+c:\users\rx142\documents\visual studio 2013\Projects\Test\Test\bin\Debug\Test.pdb
+c:\users\rx142\documents\visual studio 2013\Projects\Test\Test\obj\Debug\Test.dll
+c:\users\rx142\documents\visual studio 2013\Projects\Test\Test\obj\Debug\Test.pdb
